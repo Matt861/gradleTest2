@@ -2,6 +2,7 @@ package crt.employee;
 
 import com.lmco.crt.employee.Employee;
 import org.junit.*;
+import org.springframework.boot.test.autoconfigure.*;
 import static org.junit.Assert.*;
 
 public class EmployeeAppTest {
